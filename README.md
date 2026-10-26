@@ -32,7 +32,17 @@ Google Drive · Google Sheets · Gmail
 
 ## Screenshots and Demo
 
-Dashboard screenshots and a video walkthrough will be added here.
+### Dashboard
+<img width="1920" height="1958" alt="screencapture-file-C-Users-mohsi-Downloads-Resume-Website-Updated-index-html-2026-10-26-21_25_05" src="https://github.com/user-attachments/assets/7088955e-d08c-4fe6-af72-148274a41a87" />
+
+
+### Screening Result
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/0331ec53-73f8-4c63-95b4-b32d0e82caac" />
+
+
+### Candidate Pipeline
+<img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/8b6ed639-15d4-48fd-a5ea-6b6072869a67" />
+
 
 ## Source Code
 
